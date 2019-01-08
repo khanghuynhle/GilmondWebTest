@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GilmondWebTest", "GilmondWebTest\GilmondWebTest.csproj", "{2943C3F3-0B96-4FE0-843B-8A305E868527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2943C3F3-0B96-4FE0-843B-8A305E868527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2943C3F3-0B96-4FE0-843B-8A305E868527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2943C3F3-0B96-4FE0-843B-8A305E868527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2943C3F3-0B96-4FE0-843B-8A305E868527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75624A41-7F8B-46E6-AE5F-E9179B7FBE90}
+	EndGlobalSection
+EndGlobal
